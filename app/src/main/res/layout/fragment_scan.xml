@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            app:srcCompat="@drawable/immagine_reperto"
+            android:id="@+id/img_reperto"
+            android:adjustViewBounds="true" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/ic_audio"
+            android:id="@+id/speak"
+            android:background="@android:drawable/ic_notification_overlay"
+            android:layout_marginRight="43dp"
+            android:layout_marginEnd="43dp"
+            android:layout_alignBottom="@+id/img_reperto"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/titolo"
+            android:text="TITOLO"
+            android:fontFamily="sans-serif-black"
+            android:textSize="30dp"
+            android:layout_below="@+id/img_reperto"
+            android:layout_centerHorizontal="true"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/descr_titolo"
+            android:text="Titolo del reperto archeologico"
+            android:fontFamily="sans-serif-thin"
+            android:textSize="18dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="30dp"
+            android:lineSpacingMultiplier="1.5"
+            android:layout_marginRight="10dp"
+            android:layout_below="@+id/titolo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/autore"
+            android:text="AUTORE"
+            android:fontFamily="sans-serif-black"
+            android:textSize="30dp"
+            android:layout_below="@+id/descr_titolo"
+            android:layout_marginTop="30dp"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/descr_autore"
+            android:text="Autore del reperto archeologico"
+            android:fontFamily="sans-serif-thin"
+            android:textSize="18dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="30dp"
+            android:lineSpacingMultiplier="1.5"
+            android:layout_marginRight="10dp"
+            android:layout_below="@+id/autore" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/periodo"
+            android:text="PERIODO"
+            android:fontFamily="sans-serif-black"
+            android:textSize="30dp"
+            android:layout_below="@+id/descr_autore"
+            android:layout_marginTop="30dp"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/descr_periodo"
+            android:text="Periodo del reperto archeologico"
+            android:fontFamily="sans-serif-thin"
+            android:textSize="18dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="30dp"
+            android:lineSpacingMultiplier="1.5"
+            android:layout_marginRight="10dp"
+            android:layout_below="@+id/periodo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/descrizione"
+            android:text="DESCRIZIONE"
+            android:fontFamily="sans-serif-black"
+            android:textSize="30dp"
+            android:layout_below="@+id/descr_periodo"
+            android:layout_marginTop="30dp"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/descr_descrizione"
+            android:text="Descrizione del reperto archeologico"
+            android:fontFamily="sans-serif-thin"
+            android:textSize="18dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="30dp"
+            android:lineSpacingMultiplier="1.5"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="30dp"
+            android:layout_below="@+id/descrizione" />
+
+        <VideoView
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            android:id="@+id/video"
+            android:layout_below="@+id/descr_descrizione"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="40dp"
+            android:visibility="gone"/>
+
+            </RelativeLayout>
+
+</android.support.v4.widget.NestedScrollView>

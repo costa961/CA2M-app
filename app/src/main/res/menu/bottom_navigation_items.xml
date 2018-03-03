@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+    <item
+        android:id="@+id/action_scan"
+        android:icon="@drawable/ic_scan"
+        android:title="Scan"/>
+    <item
+        android:id="@+id/action_opera"
+        android:icon="@drawable/ic_opera"
+        android:title="Opera"/>
+    <item
+        android:id="@+id/action_credits"
+        android:icon="@drawable/ic_credits"
+        android:title="Credits"/>
+
+</menu>

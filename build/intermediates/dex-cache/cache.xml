@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.2.1_c22fbe5316929e97b1f37b15117db0262ffe9bbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_8ccf66b03910c9d59d388656732643f835d35203\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.2.1_c607ce2effc8e7ca3d03275a31bc0c4fc73d3399\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_25abb3f5f4e964bb29c9fe329eab3056c07e4578\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.2.1_e7b4981bddd5e07170ca368534e0ec0a223747ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.2.1_a36c0792ab1d1b189edd04b6057dd22dbf677696\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_1dc3a6adecdf179541e1bfaad6378830d2868f5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_b17ca321f29f272f365dfcb29a82073a11f2af9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.1_72a7f9c4dd2d06df4f89de2b30cb4b62adc8a4eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_adb90f2f48c1240c2dbceac0d71c82b6ce819348\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_b7dc17beb4ad7ee2341011d4a1877704753a5f23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_414c40b0d21468adc78033ed82eeea2255505474\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.2.1_41f423793a0490ee582c5de83596b9d70ff115a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.2.1_0265e017440331ab4e77f316c17dc5211df2accd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.1_afedb8b3a39b7a8056bfe7e108df3b81a538ac56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_be47273fffbf61a57219b3dbad6dec7ff7f47eb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_4e94bfc67a185d937180da9d7f28b852bfdbed8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_3285953e125a22a3d69b62103af64950968e0111\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39dedd0e94f6b99d1feef3b2d084392ff692bd6c">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_73b1f7de6207abd74cf304c1fb2e16f67dcb7c91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="991af400bfffb47b65b2c34d522246fe4ceb2820">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6e7a7b6a5e42231799e6b113619161e4a044defc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.journeyapps-zxing-android-embedded-3.2.0_d657bd49f7a3cb7e598bac8a28fe806ecf278ae9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.2.1_89d797ae977a26190bf3fc2392a6b496863d5edb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_f305d528041fc3aa6410ed6b43b47c1e3fb19b34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.2.1_1bdaf9293d221051d00b736dbbfbaf4a0d28a7d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.2.1_159c4d64e27a4edad19eed757dbf9d41015e2d66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_b97c278fb3798b6518cea7e12dad23cba2e9abb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.2.1_4d2a7512d14b96d256f9668f03a6aef977368b57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\Costa\AndroidStudioProjects\CA2M-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.1_2913bc5f0d9feb376fff1a00f8d1a82987b5be82\classes.dex" />
+    </item>
+
+</items>

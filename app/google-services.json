@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "971543541518",
+    "firebase_url": "https://camm-98ca1.firebaseio.com",
+    "project_id": "camm-98ca1",
+    "storage_bucket": "camm-98ca1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971543541518:android:d2cb556d64c2031c",
+        "android_client_info": {
+          "package_name": "com.example.costa.ca2m"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971543541518-70br8lonmdsbveni1iviqntbq20idro3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzWKQra7jrwGGQa5izKULKiYdbENZJko8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971543541518:android:aea87c59703e9366",
+        "android_client_info": {
+          "package_name": "com.example.costa.ca2m_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971543541518-70br8lonmdsbveni1iviqntbq20idro3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzWKQra7jrwGGQa5izKULKiYdbENZJko8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

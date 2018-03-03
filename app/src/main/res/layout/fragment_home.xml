@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/homescreen"
+            android:id="@+id/img_home"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="-70dp" />
+
+        <TextView
+            android:text="Visita il nostro Museo. \n\nScansione di un QR code per una migliore esperienza edonica. "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="147dp"
+            android:textSize="20sp"
+            android:lineSpacingMultiplier="1.2"
+            android:fontFamily="sans-serif-light"
+            android:id="@+id/descr_home"
+            android:layout_below="@+id/img_home"
+            android:layout_alignLeft="@+id/img_home2"
+            android:layout_alignStart="@+id/img_home2"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+        <TextView
+            android:text="Durrës Archaeological Museum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:fontFamily="sans-serif-black"
+            android:id="@+id/textView"
+            android:layout_below="@+id/img_home"
+            android:layout_alignRight="@+id/img_home2"
+            android:layout_alignEnd="@+id/img_home2"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/mosaico"
+            android:id="@+id/img_home2"
+            android:layout_below="@+id/descr_home"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:text="@string/history_museum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:lineSpacingMultiplier="1.5"
+            android:fontFamily="sans-serif-thin"
+            android:id="@+id/descr_home2"
+            android:layout_below="@+id/img_home2"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="70dp"/>
+
+
+    </RelativeLayout>
+
+
+
+</android.support.v4.widget.NestedScrollView>
